@@ -1,0 +1,93 @@
+c:\users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\KahveciLINQ\bin\Debug\KahveciLINQ.exe.config
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\KahveciLINQ\bin\Debug\KahveciLINQ.exe
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\KahveciLINQ\bin\Debug\KahveciLINQ.pdb
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\KahveciLINQ\bin\Debug\EntityFramework.dll
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\KahveciLINQ\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\KahveciLINQ\bin\Debug\EntityFramework.xml
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\KahveciLINQ\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.csprojResolveAssemblyReference.cache
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.Form1.resources
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.Properties.Resources.resources
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.csproj.GenerateResource.Cache
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.exe
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.pdb
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\KahveciLINQ\bin\Debug\DAL.dll
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\KahveciLINQ\bin\Debug\DomainEntity.dll
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\KahveciLINQ\bin\Debug\DAL.pdb
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\KahveciLINQ\bin\Debug\DomainEntity.pdb
+C:\Users\nuuklu\documents\visual studio 2015\Projects\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.SiparisEkrani.resources
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.RaporEkrani.resources
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.AylikRaporEkrani.resources
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.UrunEkleEkrani.resources
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\KahveciLINQ.exe.config
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.exe
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.pdb
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\KahveciLINQ.exe
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\KahveciLINQ.pdb
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\DAL.dll
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\DomainEntity.dll
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\EntityFramework.dll
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\DAL.pdb
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\DomainEntity.pdb
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\EntityFramework.xml
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.csprojResolveAssemblyReference.cache
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.AylikRaporEkrani.resources
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.Form1.resources
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.Properties.Resources.resources
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.RaporEkrani.resources
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.SiparisEkrani.resources
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.UrunEkleEkrani.resources
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.csproj.GenerateResource.Cache
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\EPPlus.dll
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\EPPlus.xml
+C:\Users\sores\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.TumSatislarEkrani.resources
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\KahveciLINQ.exe.config
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.exe
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.pdb
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\KahveciLINQ.exe
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\KahveciLINQ.pdb
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\DAL.dll
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\DomainEntity.dll
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\EntityFramework.dll
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\EPPlus.dll
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\DAL.pdb
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\DomainEntity.pdb
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\EntityFramework.xml
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\bin\Debug\EPPlus.xml
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.csprojResolveAssemblyReference.cache
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.AylikRaporEkrani.resources
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.Form1.resources
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.Properties.Resources.resources
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.RaporEkrani.resources
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.SiparisEkrani.resources
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.TumSatislarEkrani.resources
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.UrunEkleEkrani.resources
+C:\Users\nuuklu\Desktop\KahveciLINQ\KahveciLINQ\obj\Debug\KahveciLINQ.csproj.GenerateResource.Cache
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\bin\Debug\KahveciLINQ.exe.config
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\obj\Debug\KahveciLINQ.exe
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\obj\Debug\KahveciLINQ.pdb
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\bin\Debug\KahveciLINQ.exe
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\bin\Debug\KahveciLINQ.pdb
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\bin\Debug\DAL.dll
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\bin\Debug\DomainEntity.dll
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\bin\Debug\EntityFramework.dll
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\bin\Debug\EPPlus.dll
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\bin\Debug\DAL.pdb
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\bin\Debug\DomainEntity.pdb
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\bin\Debug\EntityFramework.xml
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\bin\Debug\EPPlus.xml
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\obj\Debug\KahveciLINQ.csprojResolveAssemblyReference.cache
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\obj\Debug\KahveciLINQ.AylikRaporEkrani.resources
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\obj\Debug\KahveciLINQ.Form1.resources
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\obj\Debug\KahveciLINQ.Properties.Resources.resources
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\obj\Debug\KahveciLINQ.RaporEkrani.resources
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\obj\Debug\KahveciLINQ.SiparisEkrani.resources
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\obj\Debug\KahveciLINQ.TumSatislarEkrani.resources
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\obj\Debug\KahveciLINQ.UrunEkleEkrani.resources
+C:\Users\nuuklu\Source\Repos\KahveDukkani\KahveciLINQ\obj\Debug\KahveciLINQ.csproj.GenerateResource.Cache

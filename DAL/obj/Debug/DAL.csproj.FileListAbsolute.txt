@@ -1,0 +1,36 @@
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\DAL\bin\Debug\DAL.dll.config
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\DAL\bin\Debug\DAL.dll
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\DAL\bin\Debug\DAL.pdb
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\DAL\bin\Debug\DomainEntity.dll
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\DAL\bin\Debug\EntityFramework.dll
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\DAL\bin\Debug\DomainEntity.pdb
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\DAL\bin\Debug\EntityFramework.xml
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\DAL\obj\Debug\DAL.dll
+C:\Users\nuuklu\Documents\Visual Studio 2015\Projects\KahveciLINQ\DAL\obj\Debug\DAL.pdb
+C:\Users\sores\Desktop\KahveciLINQ\DAL\bin\Debug\DAL.dll.config
+C:\Users\sores\Desktop\KahveciLINQ\DAL\bin\Debug\DAL.dll
+C:\Users\sores\Desktop\KahveciLINQ\DAL\bin\Debug\DAL.pdb
+C:\Users\sores\Desktop\KahveciLINQ\DAL\bin\Debug\DomainEntity.dll
+C:\Users\sores\Desktop\KahveciLINQ\DAL\bin\Debug\EntityFramework.dll
+C:\Users\sores\Desktop\KahveciLINQ\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sores\Desktop\KahveciLINQ\DAL\bin\Debug\DomainEntity.pdb
+C:\Users\sores\Desktop\KahveciLINQ\DAL\bin\Debug\EntityFramework.xml
+C:\Users\sores\Desktop\KahveciLINQ\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sores\Desktop\KahveciLINQ\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\sores\Desktop\KahveciLINQ\DAL\obj\Debug\DAL.dll
+C:\Users\sores\Desktop\KahveciLINQ\DAL\obj\Debug\DAL.pdb
+C:\Users\nuuklu\Desktop\KahveciLINQ\DAL\bin\Debug\DAL.dll.config
+C:\Users\nuuklu\Desktop\KahveciLINQ\DAL\bin\Debug\DAL.dll
+C:\Users\nuuklu\Desktop\KahveciLINQ\DAL\bin\Debug\DAL.pdb
+C:\Users\nuuklu\Desktop\KahveciLINQ\DAL\bin\Debug\DomainEntity.dll
+C:\Users\nuuklu\Desktop\KahveciLINQ\DAL\bin\Debug\EntityFramework.dll
+C:\Users\nuuklu\Desktop\KahveciLINQ\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nuuklu\Desktop\KahveciLINQ\DAL\bin\Debug\DomainEntity.pdb
+C:\Users\nuuklu\Desktop\KahveciLINQ\DAL\bin\Debug\EntityFramework.xml
+C:\Users\nuuklu\Desktop\KahveciLINQ\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nuuklu\Desktop\KahveciLINQ\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\nuuklu\Desktop\KahveciLINQ\DAL\obj\Debug\DAL.dll
+C:\Users\nuuklu\Desktop\KahveciLINQ\DAL\obj\Debug\DAL.pdb
