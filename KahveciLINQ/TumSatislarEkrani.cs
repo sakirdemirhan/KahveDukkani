@@ -46,6 +46,15 @@ namespace KahveciLINQ
 
         private void button1_Click(object sender, EventArgs e)
         {
+            string excelFilePath = "";
+            var fbd = new FolderBrowserDialog();
+            DialogResult d = fbd.ShowDialog();
+            if (d == DialogResult.OK)
+            {
+                excelFilePath = fbd.SelectedPath;
+                
+            }
+
             var tbl = new DataTable();
             foreach (DataGridViewColumn column in dataGridView1.Columns)
             {
@@ -64,7 +73,7 @@ namespace KahveciLINQ
                 }
                 tbl.Rows.Add(cellValues);
             }
-            string excelFilePath = @"C:\Users\nuuklu\Desktop\";
+
             try
             {
                 if (tbl == null || tbl.Columns.Count == 0)
@@ -98,7 +107,8 @@ namespace KahveciLINQ
                 {
                     try
                     {
-                        workSheet.SaveAs(DateTime.Now.Year.ToString()+ DateTime.Now.Month.ToString()+ DateTime.Now.Day.ToString());
+                        string filename = DateTime.Now.Year.ToString() + DateTime.Now.Month.ToString() + DateTime.Now.Day.ToString();
+                        workSheet.SaveAs(excelFilePath+"\\"+filename);
                         excelApp.Quit();
                         MessageBox.Show("Excel dosyası kaydedildi!");
                     }
