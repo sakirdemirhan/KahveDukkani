@@ -12,7 +12,6 @@ namespace DomainEntity.ViewModels
         public int UrunID { get; set; }
         public int Miktar { get; set; }
         public decimal BirimFiyat { get; set; }
-        public decimal ToplamFiyat {
-            get { return BirimFiyat * Miktar; } }
+        public decimal ToplamFiyat { get { return BirimFiyat * Miktar; } }
     }
 }

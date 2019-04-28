@@ -50,6 +50,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="KahveciContext.cs" />
+    <Compile Include="Migrations\201904281511547_initial.cs" />
+    <Compile Include="Migrations\201904281511547_initial.Designer.cs">
+      <DependentUpon>201904281511547_initial.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -62,6 +66,11 @@
       <Project>{B2720EB6-32CD-448F-8E75-249D54111211}</Project>
       <Name>DomainEntity</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201904281511547_initial.resx">
+      <DependentUpon>201904281511547_initial.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
